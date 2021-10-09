@@ -1,13 +1,5 @@
 # [WIP Animations Battle Animations](./)
 
-## [1. Sword \(Chain\) {Knabepicer}](https://git.io/JE239) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE2sT)
-
-| <b>Sword (Chain) {Knabepicer}</b><br/><img alt="Sword (Chain) {Knabepicer}" src="https://git.io/JE2O7"/> |
-| :---: |
-
-
-
-
 ## [7743's T1AXEFighterGladiatorMWaleed](https://git.io/JE2Or) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE236)
 
 
@@ -50,13 +42,6 @@
 
 
 
-## [Its_Just_Jay's Myrmidon Fur Coat](https://git.io/JE2OG) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE235)
-
-
-
-
-
-
 ## [N426's Pirate Shark Animation](https://git.io/JE23M) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE2se)
 
 | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JE2OH"/> | <b>Trident</b><br/><img alt="Trident" src="https://git.io/JE2OW"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JE2OC"/> |
@@ -80,13 +65,6 @@
 
 
 ## [Shaver WindBow by 7743](https://git.io/JE2O2) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE232)
-
-
-
-
-
-
-## [Stitch's Bulky Mage](https://git.io/JE2OA) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23W)
 
 
 
@@ -181,29 +159,6 @@
 ## [\[Ranger-Reskin\] \[F\] Bandana by WarPath](https://git.io/JE2OS) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE23s)
 
 
-
-
-
-
-## [\[T2\]\[LRD\]\[Eirika-Base\]\(Brave Lucina\)\[F\]{Red Bean, Jeorge_Reds, EA,Smash,Marlon}](https://git.io/JE2O8) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE231)
-
-
-
-
-
-
-## [\[T3 Necromancer-repalette\] \[M\] by TytheBub](https://git.io/JE23F) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE2sU)
-
-| <b>magic fe7</b><br/><img alt="magic fe7" src="https://git.io/JE23f"/> | <b>magic fe8</b><br/><img alt="magic fe8" src="https://git.io/JE23q"/> | <b>staff</b><br/><img alt="staff" src="https://git.io/JE2Op"/> |
-| :---: | :---: | :---: |
-
-
-
-
-## [\[T3 Necromancer-variant\] \[F\] by TytheBub](https://git.io/JE23S) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JE2sv)
-
-| <b>magic FE7</b><br/><img alt="magic FE7" src="https://git.io/JE23t"/> | <b>magic FE8</b><br/><img alt="magic FE8" src="https://git.io/JE23U"/> | <b>staff</b><br/><img alt="staff" src="https://git.io/JE23J"/> |
-| :---: | :---: | :---: |
 
 
 
