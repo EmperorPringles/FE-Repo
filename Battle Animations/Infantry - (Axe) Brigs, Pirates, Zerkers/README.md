@@ -232,6 +232,14 @@
 
 
 
+## [\[Brigand-Reskin\] \[M\] Wolf by CookieMaster](https://git.io/JKGfU) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JKGf3)
+
+| <b>Monster</b><br/><img alt="Monster" src="https://git.io/JKGvD"/> |
+| :---: |
+
+
+
+
 ## [\[Brigand-Reskin\] \[U\] Lizard Brigand Wildling](https://git.io/Jn3t2) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3BU)
 
 | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOgt"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOgn"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOgR"/> |
@@ -245,6 +253,32 @@
 | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnOgs"/> | <b>Axe with Scream Critical</b><br/><img alt="Axe with Scream Critical" src="https://git.io/JnOgy"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOg9"/> |
 | :---: | :---: | :---: |
 | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOz3"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOgG"/> |
+
+
+
+
+## [\[Hector-Reskin\] \[M\] T1 Waleed's Gladiator](https://git.io/JisMy) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisDo)
+
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/Jis6M"/> | <b>Axe (Berserker Spin Crit)</b><br/><img alt="Axe (Berserker Spin Crit)" src="https://git.io/Jis65"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/Jis6Q"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jis69"/> |
+
+
+
+
+## [\[Hector-Reskin\] \[M\] T1 Waleed's Gladiator Repal by Pushwall](https://git.io/JisX4) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisMR)
+
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/Jis67"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/Jis6D"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jis61"/> |
+| :---: | :---: | :---: |
+
+
+
+
+## [\[Hector-Reskin\] \[M\] T1 Waleed's Gladiator Repal v2 +Sword](https://git.io/JisMD) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisDs)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/Jis6S"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/Jis6H"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/Jis6d"/> |
+| :---: | :---: | :---: |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/Jis6y"/> |
 
 
 

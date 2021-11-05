@@ -112,9 +112,17 @@
 
 
 
-## [\[Devisian-Custom\] \[M\] Magician by Devisian_Nights](https://git.io/Jn3Le) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3lJ)
+## [\[Devisian-Custom\] \[M\] Magician v1 by Devisian_Nights](https://git.io/JKGfC) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JKGfB)
 
-| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOix"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOSm"/> |
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JKGvN"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JKGvb"/> |
+| :---: | :---: |
+
+
+
+
+## [\[Devisian-Custom\] \[M\] Magician v2 by Devisian_Nights](https://git.io/JKGfE) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JKGfu)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/JKGfJ"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JKGvF"/> |
 | :---: | :---: |
 
 
@@ -148,6 +156,22 @@
 
 | <b>Staff</b><br/><img alt="Staff" src="https://git.io/JnO5E"/> | <b>Staff (Constant timing)</b><br/><img alt="Staff (Constant timing)" src="https://git.io/JnOh0"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOdE"/> |
 | :---: | :---: | :---: |
+
+
+
+
+## [\[Eliwood-Variant\] \[F\] Mage Lord by TytheBub](https://git.io/Jis75) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jis7F)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/Jis77"/> |
+| :---: |
+
+
+
+
+## [\[Eliwood-Variant\] \[M\] Mage Lord by TytheBub](https://git.io/Jis7H) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jis7Q)
+
+| <b>Magic</b><br/><img alt="Magic" src="https://git.io/Jis79"/> |
+| :---: |
 
 
 

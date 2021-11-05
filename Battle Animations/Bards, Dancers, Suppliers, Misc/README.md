@@ -198,6 +198,14 @@
 
 
 
+## [\[Non-FE\] \[M\] Fate - Nobunaga by ZoramineFae](https://git.io/JisM4) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JisyH)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JisPw"/> |
+| :---: |
+
+
+
+
 ## [\[Non-FE\] \[M\] Jojo BA - Giorno by SurfingKyogre](https://git.io/Jn3qx) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Ra)
 
 | <b>Monster</b><br/><img alt="Monster" src="https://git.io/JnO9l"/> |
@@ -226,6 +234,14 @@
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOHP"/> |
 | :---: |
+
+
+
+
+## [\[Non-FE\] \[U\] Star Wars Clone Trooper by WAve](https://git.io/JKGfZ) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JKGf8)
+
+| <b>Bow</b><br/><img alt="Bow" src="https://git.io/JKGvS"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JKGvj"/> |
+| :---: | :---: |
 
 
 

@@ -69,6 +69,14 @@
 
 
 
+## [\[Manakete-Base\] \[U\] Generic Dragon Transformation](https://git.io/JopG3) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JopGG)
+
+| <b>Revert</b><br/><img alt="Revert" src="https://git.io/JopGq"/> | <b>Transform</b><br/><img alt="Transform" src="https://git.io/JopGY"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JopGt"/> |
+| :---: | :---: | :---: |
+
+
+
+
 ## [\[Manakete-Base\] \[U\] Vanilla FE8 Dracozombie +FE7](https://git.io/Jn3YC) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Ev)
 
 | <b>Dragonstone</b><br/><img alt="Dragonstone" src="https://git.io/JnOS3"/> | <b>Dragonstone (FE7 Fixed)</b><br/><img alt="Dragonstone (FE7 Fixed)" src="https://git.io/JnOQU"/> | <b>Dragonstone (Imp +Transf)</b><br/><img alt="Dragonstone (Imp +Transf)" src="https://git.io/JnO9v"/> |
@@ -125,9 +133,9 @@
 
 
 
-## [\[Monster Custom\] \[M\] Wanderer - Blade by Chhhsfe](https://git.io/Jn3Yu) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Rb)
+## [\[Monster-Custom\] \[F\] Fairy \(Ogre Battle\)](https://git.io/JPXae) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JPXaJ)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnO7r"/> |
+| <b>Refresh</b><br/><img alt="Refresh" src="https://git.io/JPX2A"/> |
 | :---: |
 
 
@@ -162,6 +170,14 @@
 | <b>Sword (Flashy crit)</b><br/><img alt="Sword (Flashy crit)" src="https://git.io/JnObo"/> | <b>Sword (Normal Crit)</b><br/><img alt="Sword (Normal Crit)" src="https://git.io/JnOAK"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOVv"/> |
 | :---: | :---: | :---: |
 | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnO4I"/> |
+
+
+
+
+## [\[Monster-Custom\] \[M\] Wanderer - Blade by Chhhsfe](https://git.io/JPXav) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JPXaf)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JPX2p"/> |
+| :---: |
 
 
 
@@ -234,6 +250,13 @@
 
 | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnORK"/> |
 | :---: |
+
+
+
+
+## [\[Monster-Custom\] \[U\] Kerendu](https://git.io/JPX2x) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JPX2j)
+
+
 
 
 

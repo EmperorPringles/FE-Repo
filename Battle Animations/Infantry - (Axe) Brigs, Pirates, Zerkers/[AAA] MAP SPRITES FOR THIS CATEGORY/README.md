@@ -18,19 +18,24 @@
 |<img alt="Berserker (M) Lance {ZoramineFae}-stand" src="Berserker (M) Lance {ZoramineFae}-stand.png" />|<img alt="Berserker (M) Magic {ZoramineFae}-stand" src="Berserker (M) Magic {ZoramineFae}-stand.png" />|<img alt="Berserker (M) Staff {ZoramineFae}-stand" src="Berserker (M) Staff {ZoramineFae}-stand.png" />|<img alt="Berserker (M) Sword {ZoramineFae}-stand" src="Berserker (M) Sword {ZoramineFae}-stand.png" />|
 
 
-|Brigand (F) Axe <br> {Skitty}|Brigand (M) Armored - Darker Clothes <br> {Unknown}|Brigand (M) Armored Fix Axe <br> {flasuban}|Brigand (M) Armored Sword <br> {Rasdel}|
+|Brigand (F) Axe 16x16 <br> {Skitty}|Brigand (F) Axe <br> {Skitty}|Brigand (M) Armored - Darker Clothes <br> {Unknown}|Brigand (M) Armored Fix Axe <br> {flasuban}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Brigand (F) Axe {Skitty}-stand" src="Brigand (F) Axe {Skitty}-stand.png" />|<img alt="Brigand (M) Armored - Darker Clothes {Unknown}-stand" src="Brigand (M) Armored - Darker Clothes {Unknown}-stand.png" />|<img alt="Brigand (M) Armored Fix Axe {flasuban}-stand" src="Brigand (M) Armored Fix Axe {flasuban}-stand.png" />|<img alt="Brigand (M) Armored Sword {Rasdel}-stand" src="Brigand (M) Armored Sword {Rasdel}-stand.png" />|
+|<img alt="Brigand (F) Axe 16x16 {Skitty}-stand" src="Brigand (F) Axe 16x16 {Skitty}-stand.png" />|<img alt="Brigand (F) Axe {Skitty}-stand" src="Brigand (F) Axe {Skitty}-stand.png" />|<img alt="Brigand (M) Armored - Darker Clothes {Unknown}-stand" src="Brigand (M) Armored - Darker Clothes {Unknown}-stand.png" />|<img alt="Brigand (M) Armored Fix Axe {flasuban}-stand" src="Brigand (M) Armored Fix Axe {flasuban}-stand.png" />|
 
 
-|Brigand (M) Armored <br> {NYZGamer3}|Brigand (M) Axe 16x16 <br> {Alusq}|Brigand (M) Axe <br> {IS}|Brigand (M) Barbarian Axe <br> {Glaceo}|
+|Brigand (M) Armored Sword 16x16 <br> {Rasdel}|Brigand (M) Armored Sword <br> {Rasdel}|Brigand (M) Armored <br> {NYZGamer3}|Brigand (M) Axe 16x16 <br> {Alusq}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Brigand (M) Armored {NYZGamer3}-stand" src="Brigand (M) Armored {NYZGamer3}-stand.png" />|<img alt="Brigand (M) Axe 16x16 {Alusq}-stand" src="Brigand (M) Axe 16x16 {Alusq}-stand.png" />|<img alt="Brigand (M) Axe {IS}-stand" src="Brigand (M) Axe {IS}-stand.png" />|<img alt="Brigand (M) Barbarian Axe {Glaceo}-stand" src="Brigand (M) Barbarian Axe {Glaceo}-stand.png" />|
+|<img alt="Brigand (M) Armored Sword 16x16 {Rasdel}-stand" src="Brigand (M) Armored Sword 16x16 {Rasdel}-stand.png" />|<img alt="Brigand (M) Armored Sword {Rasdel}-stand" src="Brigand (M) Armored Sword {Rasdel}-stand.png" />|<img alt="Brigand (M) Armored {NYZGamer3}-stand" src="Brigand (M) Armored {NYZGamer3}-stand.png" />|<img alt="Brigand (M) Axe 16x16 {Alusq}-stand" src="Brigand (M) Axe 16x16 {Alusq}-stand.png" />|
 
 
-|Brigand (M) Clothed Axe <br> {Yangfly Master}|Brigand (M) Improved +Clothing <br> {Flasuban}|Marauder (M) Axe <br> {Author_Pendragon}|Marauder (M) Basic Axe <br> {Blademaster}|
+|Brigand (M) Axe <br> {IS}|Brigand (M) Barbarian Axe <br> {Glaceo}|Brigand (M) Clothed Axe <br> {Yangfly Master}|Brigand (M) Improved +Clothing <br> {Flasuban}|
 | :---: | :---: | :---: | :---: |
-|<img alt="Brigand (M) Clothed Axe {Yangfly Master}-stand" src="Brigand (M) Clothed Axe {Yangfly Master}-stand.png" />|<img alt="Brigand (M) Improved +Clothing {Flasuban}-stand" src="Brigand (M) Improved +Clothing {Flasuban}-stand.png" />|<img alt="Marauder (M) Axe {Author_Pendragon}-stand" src="Marauder (M) Axe {Author_Pendragon}-stand.png" />|<img alt="Marauder (M) Basic Axe {Blademaster}-stand" src="Marauder (M) Basic Axe {Blademaster}-stand.png" />|
+|<img alt="Brigand (M) Axe {IS}-stand" src="Brigand (M) Axe {IS}-stand.png" />|<img alt="Brigand (M) Barbarian Axe {Glaceo}-stand" src="Brigand (M) Barbarian Axe {Glaceo}-stand.png" />|<img alt="Brigand (M) Clothed Axe {Yangfly Master}-stand" src="Brigand (M) Clothed Axe {Yangfly Master}-stand.png" />|<img alt="Brigand (M) Improved +Clothing {Flasuban}-stand" src="Brigand (M) Improved +Clothing {Flasuban}-stand.png" />|
+
+
+|Gladiator (M) <br> {Pikmin, L95}|Gladiator (M) <br> {SSHX}|Marauder (M) Axe <br> {Author_Pendragon}|Marauder (M) Basic Axe <br> {Blademaster}|
+| :---: | :---: | :---: | :---: |
+|<img alt="Gladiator (M) {Pikmin, L95}-stand" src="Gladiator (M) {Pikmin, L95}-stand.png" />|<img alt="Gladiator (M) {SSHX}-stand" src="Gladiator (M) {SSHX}-stand.png" />|<img alt="Marauder (M) Axe {Author_Pendragon}-stand" src="Marauder (M) Axe {Author_Pendragon}-stand.png" />|<img alt="Marauder (M) Basic Axe {Blademaster}-stand" src="Marauder (M) Basic Axe {Blademaster}-stand.png" />|
 
 
 |Marauder (M) Spud's <br> {LonkFC}|Pirate (F) Axe <br> {flasuban, Mikey_Seregon}|Pirate (F) Axe <br> {StreetHero}|Pirate (F) Hat Axe <br> {Glaceo, Skitty, blood}|

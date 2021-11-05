@@ -1,13 +1,5 @@
 # [Infantry - Knights, Generals, Armors Battle Animations](./)
 
-## [\[Crossover Custom\] \[M\] Sergeant by Spud](https://git.io/Jn3tH) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3CR)
-
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOpD"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOx6"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOx2"/> |
-| :---: | :---: | :---: |
-
-
-
-
 ## [\[General-Base\] \[U\] Repal by Skitty](https://git.io/Jn3kb) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Cm)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOpl"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOpC"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnO5f"/> |
@@ -95,6 +87,15 @@
 
 
 
+## [\[General-Reskin\] \[U\] Long-Haired General by RiriK](https://git.io/JKGfG) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JKGf0)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JKGvH"/> | <b>Sword (Chain)</b><br/><img alt="Sword (Chain)" src="https://git.io/JKGfT"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JKGfe"/> |
+| :---: | :---: | :---: |
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JKGvQ"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JKGfI"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JKGfk"/> |
+
+
+
+
 ## [\[General-Reskin\] \[U\] Shield v2](https://git.io/Jn3TS) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3CY)
 
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOpB"/> | <b>Sword (Chain)</b><br/><img alt="Sword (Chain)" src="https://git.io/JEXa9"/> | <b>Sword (Magic Flash)</b><br/><img alt="Sword (Magic Flash)" src="https://git.io/JnOFK"/> |
@@ -151,13 +152,21 @@
 
 
 
-## [\[Knight-Custom\] \[U\] FE10-Style by Iscaneus](https://git.io/Jn3kr) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3WA)
+## [\[Knight-Custom\] \[U\] FE10-Style by Nuramon](https://git.io/JK3DB) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JK3DE)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOpa"/> | <b>Sword (Broadsword)</b><br/><img alt="Sword (Broadsword)" src="https://git.io/JnO5J"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOx9"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JK3Dt"/> | <b>Sword (Broadsword)</b><br/><img alt="Sword (Broadsword)" src="https://git.io/JK3Dq"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JK3DL"/> |
 | :---: | :---: | :---: |
-| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JnONm"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JnOxC"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JnOxx"/> |
-| <b>Bow (No Recoil)</b><br/><img alt="Bow (No Recoil)" src="https://git.io/JnOpe"/> | <b>Bow (Recoil)</b><br/><img alt="Bow (Recoil)" src="https://git.io/JnOx0"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JnOxp"/> |
-| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnODH"/> |
+| <b>Axe</b><br/><img alt="Axe" src="https://git.io/JK3Dc"/> | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JK3DJ"/> | <b>Bow</b><br/><img alt="Bow" src="https://git.io/JK3DO"/> |
+| <b>Bow (No Recoil)</b><br/><img alt="Bow (No Recoil)" src="https://git.io/JK3DC"/> | <b>Bow (Recoil)</b><br/><img alt="Bow (Recoil)" src="https://git.io/JK3DI"/> | <b>Magic</b><br/><img alt="Magic" src="https://git.io/JK3DY"/> |
+| <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JK3Df"/> |
+
+
+
+
+## [\[Knight-Custom\] \[U\] NES-Style by Dinar87](https://git.io/JiOXt) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JiOXq)
+
+| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JiOXI"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JiOXL"/> |
+| :---: | :---: |
 
 
 
@@ -173,6 +182,14 @@
 ## [\[Knight-Reskin\] \[M\] Wallace by JeyTheCount](https://git.io/Jn3IH) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3Cf)
 
 | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JnOpk"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOF8"/> |
+| :---: | :---: |
+
+
+
+
+## [\[Knight-Reskin\] \[U\] Helmetless Repal by Raulster](https://git.io/JKGfs) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JKGfW)
+
+| <b>Lance</b><br/><img alt="Lance" src="https://git.io/JKGv7"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JKGfL"/> |
 | :---: | :---: |
 
 
@@ -206,9 +223,9 @@
 
 
 
-## [\[Marshall\] \[M\] Zelgius v1 by Luerock](https://git.io/Jn3Oq) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/Jn3C1)
+## [\[Marshall\] \[M\] Zelgius v1 by Nuramon](https://git.io/JK3Dl) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JK3D8)
 
-| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JnOHg"/> | <b>Legendary Sword (Alondite)</b><br/><img alt="Legendary Sword (Alondite)" src="https://git.io/JnO5X"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JnOyM"/> |
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JK3Dk"/> | <b>Legendary Sword (Alondite)</b><br/><img alt="Legendary Sword (Alondite)" src="https://git.io/JK3Dm"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JK3DU"/> |
 | :---: | :---: | :---: |
 
 
@@ -247,6 +264,14 @@
 | <b>Sword</b><br/><img alt="Sword" src="https://git.io/JuuId"/> | <b>Lance</b><br/><img alt="Lance" src="https://git.io/JuuIS"/> | <b>Axe</b><br/><img alt="Axe" src="https://git.io/JuuI7"/> |
 | :---: | :---: | :---: |
 | <b>Handaxe</b><br/><img alt="Handaxe" src="https://git.io/JuuIX"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JuuI9"/> |
+
+
+
+
+## [\[Zephiel-Variant\] \[M\] Black Knight by Victor](https://git.io/JPlTe) [![Download](https://img.shields.io/badge/Download--red?style=social&logo=github)](https://git.io/JPlTU)
+
+| <b>Sword</b><br/><img alt="Sword" src="https://git.io/JPlUh"/> | <b>Unarmed</b><br/><img alt="Unarmed" src="https://git.io/JPlUp"/> |
+| :---: | :---: |
 
 
 
